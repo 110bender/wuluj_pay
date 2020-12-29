@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+        <item android:title="À propos" />
+        <item android:title="Nous contacter"/>
+        <item android:title="conditions d’utilisation"/>
+        <item  android:title="Lancer votre campagne"/>
+
+
+
+
+
+</menu>

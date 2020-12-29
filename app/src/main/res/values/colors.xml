@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="primaryColor">#1ba287</color>
+        <color name="primaryColorVariant">#48B06A</color>
+        <color name="primaryLightColor">#5cd4b7</color>
+        <color name="primaryDarkColor">#00725a</color>
+        <color name="secondaryColor">#f1c40d</color>
+        <color name="secondaryLightColor">#fff652</color>
+        <color name="secondaryDarkColor">#ba9400</color>
+        <color name="white">#ffffff</color>
+        <color name="textPrimary">#2B3E50</color>
+        <color name="textSecondary">#707070</color>
+        <color name="price_button_grey">#555</color>
+
+</resources>

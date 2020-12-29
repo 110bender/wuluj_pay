@@ -1,0 +1,32 @@
+<resources>
+    <string name="homeDesc">Wuluj pay vous permet de payer encore plus rapidement, comme vous pouvez payer avec votre IAM solde!</string>
+    <string name="homeBtn1">Choisir et précommander</string>
+    <string name="homeBtn2">Lancer votre campagne sur Wuluj</string>
+    <string name="Copyright"> © 2020 Wuluj. All Rights Reserved.</string>
+
+    <string name="launchTitle">Lancer votre campagne</string>
+    <string name="launchTxt">La prévente est un service destiné principalement aux entrepreneurs et aux porteurs de projet qui souhaitent commercialiser un produit ou un service : startups, artistes, entreprises. Il s’agit en effet d’un puissant levier pour permettre le décollage de projets innovants et créatifs, à fort impact en vendant en lançant la commercialisation d’une offre alors qu’elle n’en est qu’au stade du prototype.
+
+Une campagne de prévente est une manière de lever des fonds par la vente, tout en réalisant une large campagne de communication et d’engagement de sa communauté. Plus concrètement, une campagne de prévente permet de tester tout nouveau produit ou service innovant ou créatif auprès de sa population cible, de communiquer largement dessus, recueillir du feedback constructif, d’éviter d’avoir des stocks inépuisables et de le commercialiser pour pouvoir le produire ou le mettre en place. La prévente consiste à commercialiser un produit ou un service dès qu’on dispose d’un prototype, et qu’on est en mesure de prévoir la production et la livraison des produits finis. Pour réussir une campagne, il faut atteindre l’objectif de vente que vous vous êtes fixés dans le délai imparti. Vous l’atteignez, vous recevrez les fonds sous 10 jours et nous prélevons une commission de 8% TTC (ainsi que des frais monétiques qui varient selon les moyens de paiement utilisés : 2,4% sur les paiments par carte bancaire et 2,5 dhs sur tout paiement par cash ). Vous ne réussissez pas à atteindre votre objectif, vos soutiens sont remboursés, vous ne touchez pas les fonds mais ça ne vous coute rien.</string>
+    <string name="launchBtn">Visitez Wuluj.com depuis votre ordinateur</string>
+    <string name="feedTitle">Campagnes</string>
+    <string name="openNavDrawer">open</string>
+    <string name="closeNavDrawer">close</string>
+    <string name="bodyPay">Je suis un produit de MCSIE!
+Je me rappelle bien de mon expérience à tamkeen, une expérience qui m’a permis de rencontrer des gens de valeur notamment ELOUAFIQ Ali... une expérience qui m’a permis de croire en moi encore plus, et d’aller jusqu’au bout pour réaliser mes rêves...
+Deux ans plus tard, une autre opportunité, ATTAWJIH CAMP, dont j’ai rencontré des gens formidables qui m’ont donnés des conseils pour suivre le bon chemin.
+Le bon chemin c’était la prépa et puis l’ENSIAS et ce que j’ai fait exactement... En plein confinement c’était difficile de trouver un bon stage mais MCISE était toujours là, une autre contribution qui m’a laissé à connaître plus sur le domaine des startups et à développer mes compétences techniques en programmation mobile...
+
+J’avais l’honneur de travailler avec cette équipe ambitieuse, j’avais l’honneur de contribuer de ma part dans un projet très potentiel, Wuluj.
+Je vous présente Wuluj Pay, une application qui permettra à améliorer l’expérience de payement sur wuluj.
+
+Pour tester l’application nous avons lancer une version bêta qui va permettre de tester l’application d’abord. Les contributions seront envoyées à mon compte comme ça je peux passer un bon été :D... c’était un bon était déjà d’avoir passer des bons moments avec l’équipe.
+Un grand merci pour Ali ELOUAFIQ, Youssef EL BOUJAMAOUI, Adnane ADDIOUI, et mes collègues en stages. </string>
+    <string name="titlePay">Merci MCISE!</string>
+
+
+    <string name="googlepay_status_unavailable">Unfortunately, Google Pay is not available on this device.</string>
+    <string name="payments_show_name">Successfully received payment data for %s!</string>
+    <string name="gateway_replace_name_example">"Gateway name set to \"example\" - please modify Constants.java and replace it with your own gateway."</string>
+    <string name="checkout_item_description">Description</string>
+</resources>
